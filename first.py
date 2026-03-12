@@ -1,0 +1,13 @@
+name = input("enter your name : ")
+age = int(input('enter your age : '))
+gender = input("enter your age : ")
+email = input('enter your email : ')
+phone_no = int(input("enter your phone no: "))
+
+print("\n")
+print("** details are **\n")
+print("name : ",name)
+print("age : ",age)
+print("gender : ",gender)
+print("email : ",email)
+print("phone.no : ",phone_no)
